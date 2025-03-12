@@ -1,2 +1,4 @@
 .DS_Store
 .tmp
+data/reviews/rotten_tomatoes_critic_reviews.csv
+data/reviews/rotten_tomatoes_movies.csv
