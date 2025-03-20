@@ -1,2 +1,4 @@
 .DS_Store
 .idea
+RottenTomatoes/rotten_tomatoes_critic_reviews.csv
+RottenTomatoes/rotten_tomatoes_movies.csv
